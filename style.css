@@ -1,0 +1,126 @@
+span.miss {
+	background-color: white;
+color: #ffb624;
+}
+
+span.intarget {
+	background-color: white;
+color: #05aa08;
+}
+
+span.dead {
+background-color: white;
+color: #fc0202;
+}
+
+body {
+	width: 60%;
+	margin: auto;
+	text-align: left;
+
+}
+
+.cards {
+	width: 50px;
+	height: 70px;
+}
+
+.blblock {
+	display: inline-table;
+	width: 45%;
+	height: 100%;
+
+}
+
+.startBlackJackbut {
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 14px;
+	color: black;
+	background: #5ad65a;
+	border-bottom: 1px solid grey;
+	border-top: 1px solid white;
+}
+
+li {
+	list-style: none;
+}
+
+li.fields {
+	margin: 0;
+	padding: 1em 0;
+	
+}
+
+li.title {
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 1.5em;
+	line-height: 2em;
+	background: lightblue;
+	border-bottom: 1px solid grey;
+	border-top: 1px solid white;
+
+}
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}
+
+.resultingloto {
+
+	white-space: pre-wrap;
+	
+}
+
+.header {
+	background-color: lightgrey;
+	padding-left: 6px;
+}
+
+.info_1 {
+	background-color: #f68686;
+	padding: 4px;
+	
+}
+
+.info_2 {
+	background-color: #eeb2e1;
+	padding: 4px;
+}
+
+.red { 
+font-size: 14px;
+font-weight: bold;
+color : red;
+
+}
+
+.black {
+	font-size: 14px;
+font-weight: bold;
+color : black;
+}
+
+.money {
+	font-size: 14px;
+font-weight: bold;
+color : darkgreen;
+font-family: sans-serif;
+}
+
+.win {
+	font-weight: bold;
+	color: darkgreen;
+	font-size: 14px;
+}
+
+.but {
+	background-color: lightblue;
+	color: black;
+}
+
+
